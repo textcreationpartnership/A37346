@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration from the City of Bristoll by the maior, aldermen, sheriffes and others of the city declaring their resolution and fidelity to the Parliament and their designes : also a petition from M. Maioresse, M. Holworth and 200 of the best citizens wives in Bristoll to the maior and common councell of the city for admitting the Parliaments forces into their city and many other things worthy of observation : sent from M. John Ball in Bristoll to M. James Nicolls, a merchant in Fanchurch-street London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37346</idno>
+            <idno type="STC">Wing D589</idno>
+            <idno type="EEBO-CITATION">12264174</idno>
+            <idno type="OCLC">ocm 12264174</idno>
+            <idno type="VID">196946</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196946)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E83, no 13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration from the City of Bristoll by the maior, aldermen, sheriffes and others of the city declaring their resolution and fidelity to the Parliament and their designes : also a petition from M. Maioresse, M. Holworth and 200 of the best citizens wives in Bristoll to the maior and common councell of the city for admitting the Parliaments forces into their city and many other things worthy of observation : sent from M. John Ball in Bristoll to M. James Nicolls, a merchant in Fanchurch-street London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Matthewes, and John Nicolls ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 23, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ball, John, 17th cent.</term>
+               <term>Nicolls, James, 17th cent.</term>
+               <term>Bristol (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196946:1" rendition="simple:additions"/>
+            <p>A DECLARATION <hi>FROM</hi> The City of Briſtoll: <hi>BY</hi> The Maior, Aldermen, Sheriffes, and others of the City: <hi>DECLARING</hi> Their Reſolution and fidelity to the Parliament and their deſignes: Alſo a Petition from M. Maioreſſe, M. Holworth, and 200. of the beſt Citizens wives in Briſtoll, to the Maior and Common Councell of the City, for admitting the Parliaments Forces into their City, and many other things worthy of obſervation.</p>
+            <p>
+               <hi>Sent from</hi> M. John Ball <hi>in</hi> Briſtoll, <hi>to</hi> M. James Nicolls, <hi>a Merchant in</hi> Fanchurch-ſtreet London.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Matthewes,</hi> and <hi>John Nicolls,</hi> and are to be ſold in the Old-baily. <hi>Decemb.</hi> 23. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declarations">
+            <div type="declaration">
+               <pb facs="tcp:196946:2" rendition="simple:additions"/>
+               <pb n="1" facs="tcp:196946:2"/>
+               <head>The Declaration of the Major, Aldermen, and Sheriffes, and other Citizens of the City of <hi>Briſtoll.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hings are now wheeling about towards this City, which hath hitherto been a <hi>Goſhen,</hi> when other places are as <hi>Egypt,</hi> obſcured and darkened with the diſmall clouds of a Civill inteſtine Warre. Let me diſcover how the inhabitants ſtand affected; and ſurely although here are many malignants of the great ones amongſt us <hi>Colſton, Yeomans,</hi> and their brethren: and ſome of the Clergy, as <hi>Loveoing,</hi> and <hi>Willjamſon,</hi> whoſe invective diveilſh letter was lately in<g ref="char:EOLhyphen"/>tercepted, directed to <hi>Bathurſt</hi> Chaplain to D. Skinner late Biſhop of <hi>Briſtoll,</hi> now of <hi>Oxon.</hi> wherein he calls the Major (a religious and well affected gentleman) Knave, with ſome other baſe paſſages, yet I conceive that the Ma<g ref="char:EOLhyphen"/>jor part of this City is the beſt part and ſtand firm for the Parliament. This yeare the Major and Sheriffes are right which we hope will-prove a great bleſſing to the City.</p>
+               <p>There came 3 letters to the City, one from the King, ſent by Sir <hi>Baynam Thregmorton,</hi> the ſum whereof was this, that the King ſaid, he had been little beholden to them for their forwardneſſe, to goe againſt the Marqueſſe at <hi>Sherborne,</hi> and <hi>Mendip,</hi> but would paſſe that by, and that although he was brought to that low ebbe by this war yet he had not hitherto taxed them, or been burdenſome to them, but did hope to find them loyall Subjects in the con<g ref="char:EOLhyphen"/>cluſion,
+<pb n="2" facs="tcp:196946:3"/>charging them not to admit of any Parliament for<g ref="char:EOLhyphen"/>ces into the City; which they obſerving, he ſaid he would not trouble them with any of his forces (as he promiſed <hi>Shrewsbury</hi>) but if they did let any in, they ſhould ſpeedily heare from him. The ſecond letter from the Parliament re<g ref="char:EOLhyphen"/>quiring them to admit of ſome forces for the ſecuring of the City, and their own ſafety. The third was from the Marqueſſe of <hi>Hertford</hi> in <hi>Wales,</hi> ſent by <hi>Prior</hi> his Chaplain, deſiring them that if any garriſon were to be ſet there he would ſend 1500 men. Upon theſe 3 letters the common Councell ſate the moſt part of the day: But what anſwer was returned to each letter I know not.</p>
+               <p>There came to <hi>Briſtoll,</hi> that worthy active Gentleman col<g ref="char:EOLhyphen"/>onell <hi>Popham,</hi> and Sir <hi>John Seymer,</hi> a ſtirring Gentleman de<g ref="char:EOLhyphen"/>ſiring to know of the City their Reſolution, whether they would admit of any forces for the ſecuring of that City be<g ref="char:EOLhyphen"/>ing of Conſequence, and ſo neare the Marqueſſe his forces in <hi>Wales,</hi> and lying Weſtward to <hi>Devonſhire</hi> where Sir <hi>Ralph Hopton</hi> hath an Army; there was much agitation of the que<g ref="char:EOLhyphen"/>ſtion, ſome being for admitting forces, ſome againſt it. The Sheriffe Seniour <hi>Iackſon,</hi> Alderman <hi>Lock,</hi> and Maſter <hi>James</hi> went to <hi>Gloceſter,</hi> charging them not to come with any forces if they did upon their perill be it, but the <hi>Gloceſter ſhire</hi> men were ſo incenſed againſt them, that they clapt them up, and would not ſet them at liberty, untill they had ingaged their lives for the admiſſion of a Gariſon in <hi>Briſtoll.</hi>
+               </p>
+               <p>The Gentleman forenamed Col. <hi>Popham</hi> and Sir <hi>John Sey<g ref="char:EOLhyphen"/>mer</hi> came againe to the Common Councell for an anſwer to give and return to the Parliament, whether they would admit force or not into the City. A very great combuſtion there aroſe the buſineſſe was canvaſed, ſome ſaid it would be an invitation of the Kings Army ſuddenly, others ſaid, it
+<pb n="3" facs="tcp:196946:3"/>better to admit the Parliaments Garriſon, which would be a great means to unite the City with the Counties ad<g ref="char:EOLhyphen"/>jacent in a firm aſſociation againſt the Cavaliers, or any malignants to the Parliament. There is newes brought, that unleſſe a ſtrength were admitted into the City, the Countrey would ſtarve the City, keeping all manner of proviſion, by Land and Sea.</p>
+               <p>The well-affected women (ſome of the chiefeſt) as M. Maioreſſe, <hi>M. Holworth</hi> and others, to the number of 200 frame a Petition to this effect Humbly ſhewing, that if the Parliaments forces were oppoſed, the effuſion of bloud would be great, in regard they were reſolved to en<g ref="char:EOLhyphen"/>ter: and therefore to prevent the miſchiefs that might a<g ref="char:EOLhyphen"/>riſe by a violent entring the town, and being much per<g ref="char:EOLhyphen"/>plexed with the fear of ſcarcity of victuals, were much afraid and amazed, leſt the Gloceſter and Somerſetſhire men ſhould ſtop the market-people from bringing provi<g ref="char:EOLhyphen"/>ſion to the city, they humbly deſired therefore that coun<g ref="char:EOLhyphen"/>trey people might on market dayes have free paſſage into the city with all manner of proviſion, as formerly they had, and that the Parliaments forces might in a faire and peaceable manner be admitted into the city, it being for the ſecurity, ſafety and generall good of the city.</p>
+               <p>The Parliaments Forces having billeted themſelves neer the city over night, marched in the next day about eleven a clock, although the Malignants had hopes to keep them out, and to raiſe a mutiny and inſurrection in the towne, they hire ſome ſea-men to go to Froome-gate, (ſuppoſing it to be the place of entrance) and ſtand with their muskets, and their ſwords drawn, and ſet two peeces of Ordnance charged at the gate, an uproare and tumult they made, wounding one, and hewing another; but they
+<pb n="4" facs="tcp:196946:4"/>were prevented of their purpoſe, the horſe and foot com<g ref="char:EOLhyphen"/>ing in at New-gate, and Pitty-gate: but the uproar could not be appeaſed: although M. Maior himſelf came downe to the gate, yet ſuch was their divelliſh malice and barba<g ref="char:EOLhyphen"/>rous behaviour, that they reſiſted the Maior, and when he turned the Ordnance from the gate, they turned them back again: but ſome telling them the Parliaments for<g ref="char:EOLhyphen"/>ces were entred at another gate, they deſiſted and quitted the gate: So that now are nigh three thouſand in the city who are reſolved to defend the city. Here was a rumour ſpread by the malignant party that the King was within ten miles of the towne, but it was but a bug-beare to affright people; this city, if at unity, doubtleſſe is able to reſiſt a great Army, the Caſtle being fortified with twelve peeces of Ordnance at the top, beſides Ordnance are placed round upon the wals, and two at every gate, and well furniſhed with powder, match, and all ſorts of ammunition.</p>
+               <p>This day Marlborough men bought of our men two peeces of ordnance of ſome good weight for the defence of that towne, yet ſuch was the malignancy of the ill-affected members there, that divers came and got porters and themſelves together, and threw them downe out of the cart, although the man that bought them had the Maiors Warrant for carrying them out. But it is feared they will come too late, the newes being here that part of Marlborough is burnt by the Cavaliers, and that they are ſtripped of all, and left moſt miſerable people. The Lord avert them from ruinating this place, and all other, if it be his will.</p>
+               <closer>
+                  <signed>Yours as heretofore, J. B.</signed>
+                  <dateline>Briſtoll, <date>Decemb. 18. 1642.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="declaration">
+               <pb facs="tcp:196946:4"/>
+               <head>A Declaration of the Lords and Commons aſſembled in Parliament.</head>
+               <p>
+                  <hi>Die Jovis</hi> 23 <hi>December</hi> 1642.</p>
+               <p>WHereas in and by a late ordinance of both Houſes of Parliament, it is ordained for the cauſe therin ex<g ref="char:EOLhyphen"/>preſſed, that all perſons of ability, within the Cities of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Weſtminſter,</hi> and Suburbs of the ſame; and alſo with<g ref="char:EOLhyphen"/>in the Borough of <hi>Southwark,</hi> who have not at all, or not anſwerable to their eſtates, contributed towards the main<g ref="char:EOLhyphen"/>tenance of the Army raiſed by authority of this preſent Parliament, ſhall be aſſeſſed in ſuch manner and proportion as in the ſaid Ordinance is directed; Of which the Lords and Commons now aſſembled in Parliament do expect a vi<g ref="char:EOLhyphen"/>gorous and ſpeedy execution: but finding ſome doubt to be raiſed upon the point of time, whether that clauſe of not contributing at all, or not in proportion to their eſtates, be meant of not contributing before the paſſing of the ſaid Ordinance in both houſes of Parliament, of to be extended to any time before the aſſeſſing of them, and giving them notice of it, in ſuch manner as in the ſaid Ordinance is ap<g ref="char:EOLhyphen"/>pointed. Wee the ſaid Lords and Commons in Parliament aſſembled, doe hereby declare, That if any perſon or per<g ref="char:EOLhyphen"/>ſons who have not contributed at all, or not anſwerable to their eſtates; ſhall before any aſſeſſement of them be made, and notice thereof left at their houſes, according to the ſaid Ordinance, contribute towards the mainte<g ref="char:EOLhyphen"/>nance of the ſaid Army, by loane or otherwiſe, according to their ſeverall and reſpective eſtates, as others well-affected have already done, without evaſion or colluſion,
+<pb n="6" facs="tcp:196946:5"/>every ſuch perſon ſo contributing, ſhall be accepted as do<g ref="char:EOLhyphen"/>ing an acceptable ſervice to the Common-wealth, and be freed from the paiment of all and every taxe and aſſeſſe<g ref="char:EOLhyphen"/>ment of him to be made by the Aſſeſſors, authorized by the ſaid Ordinance for that purpoſe; as likewiſe from all diſtreſſes, impriſonment, and other puniſhments to be in<g ref="char:EOLhyphen"/>flicted by vertue of the ſaid Ordinance, or any addition to, or explanation made of it, for the not paying of any ſuch aſſeſſement: And hereof all ſuch Aſſeſsors and Collectors are hereby required to take notice. And for this end, it is ordered by the ſaid Lords and Commons, that this Declaration be forthwith printed and publiſhed.</p>
+               <closer>
+                  <signed>Joh. Brown Cler. Parliament.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
